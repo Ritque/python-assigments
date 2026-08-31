@@ -1,0 +1,22 @@
+dict ={"Name":Ritvik,"Age":18}
+print(dict)
+#add or append
+dict["country"]="India"
+print(dict)
+#remove
+del dict["country"]
+print(dict)
+#Tuple
+tuple=("aam","sebh","angoor")
+print(tuple)
+#add or append
+list=list(my_tuple)
+list.append("santra")
+tuple=tuple(list)
+print(tuple)
+#Remove
+list=list(tuple)
+list.remove("aam")
+tuple=tuple(list)
+print(tuple)
+#write a python programe to create,append and remove etc,operations on a Dictionary and Tuple
