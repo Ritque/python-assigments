@@ -1,3 +1,4 @@
+# To check whether or not traingle is a right angled triangle using function
 def Triangle(a,b,c)
 hypotenuse = max(a,b,c)
 if hypotenuse == a:
@@ -15,5 +16,5 @@ if Triangle(a,b,c)==True:
 else:
      print("It is Not a Right-Angled Triangle")
 
-# To check whether or not traingle is a right angled triangle using function
+
      
