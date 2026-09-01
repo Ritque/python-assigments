@@ -1,3 +1,4 @@
+#write a python programe to create,append and remove etc,operations on a Dictionary and Tuple
 dict ={"Name":Ritvik,"Age":18}
 print(dict)
 #add or append
@@ -19,4 +20,4 @@ list=list(tuple)
 list.remove("aam")
 tuple=tuple(list)
 print(tuple)
-#write a python programe to create,append and remove etc,operations on a Dictionary and Tuple
+
